@@ -2,9 +2,9 @@ Olá, sou o Roberto Sobral!
 
 Comecei a programar na faculdade e, por enquanto, tenho alguns projetos mais antigos que eu melhoraria e outros mais recentes que gosto mais, mas que mereciam mais essa revisão. Eu, particularmente, prefiro pensar nesses códigos como minha linha do tempo.
 
-Conheci primeiramente Python, mas conforme necessidade matemática ou de hardware, programei em MatLab, C/C++ para usar Arduino, C para usar PIC, HTML/CSS (~não falei que são só linguagem de programação, hein~) e até G-code.
+Conheci primeiramente Python, mas conforme necessidade matemática ou de hardware, programei em MatLab, C/C++ para usar Arduino, C para usar PIC, HTML/CSS (~não falei que são só linguagem de programação, hein~) e até G-code e Prolog.
 
-Ultimamente passei raiva com as limitações do ESP32, mas isso me fez querer trabalhar mais com hardwares melhores. Acho que devia ter comprado um Arduino.
+Já passei raiva com as limitações do ESP32, mas isso me fez querer trabalhar mais com hardwares melhores e comprei um Arduino.
 
 Projetar sistemas embarcados me parece interessante. Também gostei de fazer sites usando Django, mas ainda não sei JavaScript.
 
